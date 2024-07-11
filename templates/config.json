@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql+mysqlconnector://root:@localhost/codingthunder",
+        "prod_uri" : "mysql+mysqlconnector://root:@localhost/codingthunder",
+        "fb_url" : "https://facebook.com/codingthunder",
+        "tw_url" : "https://twitter.com/codingthunder",
+        "gh_url" : "https://github.com/codingthunder",
+        "blog_name" : "ByteInsight",
+        "gmail_username" : "riddhisomani2003@gmail.com",
+        "gmail_pass" : "gini@0987",
+        "no_of_posts": 3,
+        "admin_user" : "riddhi",
+        "admin_password" : "riddhi#123",
+        "upload_location" : "/Users/riddhisomani/Documents/Flask"
+    }
+}
